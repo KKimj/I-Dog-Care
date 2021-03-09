@@ -1,6 +1,14 @@
 # I-Dog-Care
 I-Dog-Care Service
 
+## Service
+![image](https://user-images.githubusercontent.com/40026920/110499465-9bb02d00-813b-11eb-9166-ad115ffc93d8.png)
+
+
+![image](https://user-images.githubusercontent.com/40026920/110499386-84713f80-813b-11eb-96ed-70d4083bfff2.png)
+
+
+
 
 ## Hardware
 ### Prototype
